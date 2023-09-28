@@ -19,7 +19,7 @@
 * Commit and push the changes to the remote repository.
 ### Task 5:
 * Switch to your "**delete_commit_task**" branch.
-* Remove the second commit of the two commits.
+* Remove the last commit from that branch.
 * Now push the branch to the remote repository.
 ### Task 6:
 * Pull the branches "**person_a**" and "**person_b**".
