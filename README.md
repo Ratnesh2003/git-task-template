@@ -1,7 +1,7 @@
 # Introduction To Git
 
 ### Task 1: 
-* Add your introduction to the "introduction.txt" file.
+* Add your introduction to the "**introduction.txt**" file.
 * Commit that file in your branch.
 * Push the local branch to your remote repository.
 ### Task 2:
@@ -12,15 +12,26 @@
 * Merge your newly created branch with the main branch.
 * Push your main branch to the remote repository.
 ### Task 4:
-* Pull the branches "person_a" and "person_b".
-* Merge branch "person_b" intro "person_a".
-* Resolve the conflicts and push the branch to remote repository.
+* Make a pull from this GitHub repository: [Docusaurus](https://github.com/IshikaGupta3112/docusaurus-site)
+* Add a "**your_name.md**" file inside the *docs* folder and add your details about yourself.
+* Commit your changes and push it to your own personal repository.
+* Add your repository as a submodule inside this repository.
+* Commit and push the changes to the remote repository.
 ### Task 5:
-* Switch to your main branch.
-* Add some random text to your "introduction.txt" file.
-* Commit that change into your repository.
-* Now delete that commit and push the branch to the remote repository.
+* Switch to your "**delete_commit_task**" branch.
+* Remove the second commit of the two commits.
+* Now push the branch to the remote repository.
 ### Task 6:
-* Create two new branches "branch_1" and "branch_2" from your main branch.
-* Now add some changes and add three commits in "branch_2".
-* Now rebase the commits from "branch_2" to "branch_1".
+* Pull the branches "**person_a**" and "**person_b**".
+* Merge branch "**person_b**" intro "**person_a**".
+* Resolve the conflicts and push the branch to remote repository.
+### Task 7:
+* Create two new branches "**branch_1**" and "**branch_2**" from your main branch.
+* Now add some changes and add three commits in "**branch_2**".
+* Now rebase the commits from "**branch_2**" to "**branch_1**".
+### Task 8:
+* Explore merging strategies
+* Read about staging area.
+* Learn about good commit practices.
+* Learn and explore about ```.env``` and ```.gitignore``` files.
+* Explore about more providers other than GitHub.
